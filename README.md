@@ -1,6 +1,6 @@
 # PowerBI-Portfolio
-![Figma](https://github.com/user-attachments/assets/92b454f5-d71b-4bb9-89af-37cc008397fb)![Power BI](https://github.com/user-attachments/assets/9340983c-b22d-4be9-a9a6-c9c80b5005b2)
-<p>Welcome to my Power BI showcase — where data meets design. Each project reflects my passion for creating intuitive, visually engaging dashboards that bring data to life and support smarter decision-making.</p>
+![Power BI](https://github.com/user-attachments/assets/9340983c-b22d-4be9-a9a6-c9c80b5005b2) ![Figma](https://github.com/user-attachments/assets/92b454f5-d71b-4bb9-89af-37cc008397fb) 
+<p>Welcome to my Power BI showcase - where data meets design. Each project reflects my passion for creating intuitive, visually engaging dashboards that bring data to life and support smarter decision-making.</p>
 
   <h2>📈 Project 1: Cool Cola </h2>
   <p>This Power BI report was created as a portfolio project to showcase modern and engaging <strong>dashboard design techniques</strong> using realistic business data. It simulates the sales and consumer analytics of a fictional beverage brand, <strong>Cool Cola</strong>, inspired by global leaders in the soft drink industry. The report features:</p>
