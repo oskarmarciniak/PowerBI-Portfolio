@@ -3,7 +3,7 @@
 <p>Welcome to my Power BI showcase - where data meets design. Each project reflects my passion for creating intuitive, visually engaging dashboards that bring data to life and support smarter decision-making.</p>
 
   <h2>📈 Project 1: Cool Cola </h2>
-  <p>This Power BI report was created as a portfolio project to showcase modern and engaging <strong>dashboard design techniques</strong> using realistic business data. It simulates the sales and consumer analytics of a fictional beverage brand, <strong>Cool Cola</strong>, inspired by global leaders in the soft drink industry. The report features:</p>
+  <p>This Power BI report was created to showcase modern and engaging <strong>dashboard design techniques</strong> using realistic business data. It simulates the sales and consumer analytics of a fictional beverage brand, <strong>Cool Cola</strong>, inspired by global leaders in the soft drink industry. The report features:</p>
 
   <ul>
     <li><strong>Sales Analytics:</strong>
