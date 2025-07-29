@@ -4,6 +4,8 @@
 
   <h2>📈 Project 1: Cool Cola (Sales Analytics & Consumer Survey Report) </h2>
 
+https://github.com/user-attachments/assets/00ab09dd-048c-48a1-a3ac-6cad7abec67e
+
   <h3>💡 About this project:</h3>
   <p>This Power BI report was created to showcase modern and engaging <strong>dashboard design techniques</strong> using realistic business data. It simulates the sales and consumer analytics of a fictional beverage brand, <strong>Cool Cola</strong>, inspired by global leaders in the soft drink industry. The report features:</p>
 
