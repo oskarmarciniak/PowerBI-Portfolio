@@ -22,5 +22,5 @@ https://github.com/user-attachments/assets/94f11c70-3c17-4d80-bcab-b2538c1e9e1b
   <ul>
     <li><a href="Cool-Cola/InterestingGraphicSolutions.html">Interesting graphic solutions</a>
     <li><a href="Cool-Cola/Report Pages.md">Report Pages</a>
-    <li><a href="Cool-Cola/ModelStructure.html">Model structure</a>
+    <li><a href="Cool-Cola/Model Structure.md">Model structure</a>
   </ul>
