@@ -1,3 +1,3 @@
 
 
-### [⬅️ Back to PowerBI-Portfolio home page](https://twoja-strona.github.io/PowerBI-Portfolio)
+### [⬅️ Back to PowerBI-Portfolio home page](https://github.com/oskarmarciniak/PowerBI-Portfolio)
