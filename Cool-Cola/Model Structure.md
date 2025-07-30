@@ -15,11 +15,12 @@ Rather than forcing a classic star schema, this hybrid model supports **flexibil
 
 This design ensures that the **final report remains intuitive and efficient**, especially when combining demographic insights with product performance, all within a single unified dashboard.
 
-## 🔄 Why a Many-to-Many Relationship?
+<img width="1240" height="740" alt="image" src="https://github.com/user-attachments/assets/b8314276-fa3e-41ba-b1aa-fe30685302bc" />
+
+## ⭐ Why a Many-to-Many Relationship?
 
 A many-to-many relationship between the two fact tables (via the `Country` dimension) allows both datasets to be **filtered simultaneously** based on the selected country — without duplicating or denormalizing dimension tables.
 
-<img width="1240" height="740" alt="image" src="https://github.com/user-attachments/assets/b8314276-fa3e-41ba-b1aa-fe30685302bc" />
 
 ---
 
