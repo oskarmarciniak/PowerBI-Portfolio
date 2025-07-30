@@ -19,7 +19,7 @@ This design ensures that the **final report remains intuitive and efficient**, e
 
 ## ⭐ Why a Many-to-Many Relationship?
 
-A many-to-many relationship between the two fact tables (via the `Country` dimension) allows both datasets to be **filtered simultaneously** based on the selected country — without duplicating or denormalizing dimension tables.
+A many-to-many relationship between the two fact tables (via the `Country` dimension) allows both datasets to be **filtered simultaneously** based on the selected country - without duplicating or denormalizing dimension tables.
 
 
 ---
