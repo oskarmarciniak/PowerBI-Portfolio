@@ -1,4 +1,4 @@
-<a href="README.md">Back to PowerBI-Portfolio home page</a>
+
 
 <h3>🏠 Main Page:</h3>
   <p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
@@ -30,7 +30,7 @@
     <img width="49%" height="49%" alt="image" src="https://github.com/user-attachments/assets/4bac325c-0f45-431d-977e-b9933c406982" />
   </p>
 
-
+<a href="README.md">Back to PowerBI-Portfolio home page</a>
 
 
 
