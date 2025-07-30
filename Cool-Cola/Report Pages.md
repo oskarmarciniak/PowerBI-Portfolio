@@ -1,11 +1,15 @@
-<h1>📄 Report Structure Overview</h1>
+# 📄 Report Pages Navigation and Structure Overview
 
 This report has been designed with an intuitive and interactive layout to enhance the user experience while maintaining clarity and simplicity. Below is a summary of its main navigation and structural features:
-<h3>🧭 Navigation</h3>
+
+## 🧭 Navigation
+
 - The **end-user-facing view** consists of **a single main page**.
 - Navigation to other pages is achieved via **dedicated buttons** that lead to hidden or secondary content.
 - This approach allows for a clean and focused user interface while maintaining access to all necessary information.
-<h3>🛠️ Technical Highlights</h3>
+
+## 🛠️ Technical Highlights
+
 - The report includes:
   - **10 total pages**
   - **2 additional pages** used exclusively as **custom tooltips**
