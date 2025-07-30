@@ -16,9 +16,11 @@ https://github.com/user-attachments/assets/2df3948f-7c64-40f9-8a3d-0ef39469fa07
 <h3>🧃 Product Table with Dynamic Images</h3>
 
 - A dedicated **table of beverage products** is included within the report.
-- This table features **embedded product images** next to their names and KPIs.
+- This table features **embedded product images** next to their names and results.
 - As users apply filters, **the image rows automatically re-sort** based on the selected data, preserving consistent layout while dynamically adapting to the context.
 - This allows for an engaging visual representation of product-level performance, enhanced with real-world imagery.
+
+https://github.com/user-attachments/assets/4cf5a866-7c56-4e82-9654-468e83c1bb92
 
 ---
 
