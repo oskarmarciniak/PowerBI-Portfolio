@@ -1,4 +1,17 @@
+# 📄 Report Structure Overview
+This report has been designed with an intuitive and interactive layout to enhance the user experience while maintaining clarity and simplicity. Below is a summary of its main navigation and structural features:
+## 🧭 Navigation
+- The **end-user-facing view** consists of **a single main page**.
+- Navigation to other pages is achieved via **dedicated buttons** that lead to hidden or secondary content.
+- This approach allows for a clean and focused user interface while maintaining access to all necessary information.
+## 🛠️ Technical Highlights
+- The report includes:
+  - **10 total pages**
+  - **2 additional pages** used exclusively as **custom tooltips**
+  - **20 bookmarks**, which coordinate all user actions such as navigation, filter panel toggling, and light/dark mode switching
+- The implementation of bookmarks and hidden elements demonstrates advanced Power BI techniques for building dynamic user interfaces.
 
+---
 
 <h3>🏠 Main Page:</h3>
   <p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
