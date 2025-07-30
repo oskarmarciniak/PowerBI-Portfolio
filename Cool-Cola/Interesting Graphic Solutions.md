@@ -5,9 +5,11 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 ---
 <h3>🌊 Liquid Visual for KPI Indicator</h3>
 
-- The **main KPI** is presented using a custom **liquid fill visual**, which enhances the visual appeal and aligns with the overall **theme and “climate” of the report**.
+- The **main KPI** is presented using a custom **liquid fill visual**, which enhances the visual appeal and aligns with the overall **theme and report’s visual identity**.
 - The liquid inside the circle dynamically **moves and animates** depending on the percentage value, providing a real-time visual cue of performance.
 - This technique blends data visualization with subtle animation to make key metrics stand out without overwhelming the viewer.
+
+https://github.com/user-attachments/assets/2df3948f-7c64-40f9-8a3d-0ef39469fa07
 
 ---
 
