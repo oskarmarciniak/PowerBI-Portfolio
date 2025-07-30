@@ -4,7 +4,7 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 
 ---
 
-## 🔍 Filter Panel
+<h3>🔍 Filter Panel</h3>
 
 - A **hidden filter pane** is available on each page.
 - It can be revealed via a dedicated button and allows users to interactively filter the data based on various dimensions.
@@ -12,14 +12,14 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 
 ---
 
-## ℹ️ Information Tooltips
+<h3>ℹ️ Information Tooltips</h3>
 
 - Every page features **interactive tooltips** that display contextual information when hovering over or clicking on specific visuals.
 - These tooltips help users interpret the data without cluttering the report.
 
 ---
 
-### 🔘 Button Behavior with Hover Descriptions
+<h3>🔘 Button Behavior with Hover Descriptions</h3>
 
 - Most **buttons** in the report (except the **info button** used for triggering tooltips) are designed with **hover-activated descriptions**.
 - When the user hovers over a button, a short tooltip appears describing the **exact action** that will happen upon clicking — for example:
@@ -30,7 +30,7 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 
 ---
 
-### 🌊 Liquid Visual for KPI Indicator
+<h3>🌊 Liquid Visual for KPI Indicator</h3>
 
 - The **main KPI** is presented using a custom **liquid fill visual**, which enhances the visual appeal and aligns with the overall **theme and “climate” of the report**.
 - The liquid inside the circle dynamically **moves and animates** depending on the percentage value, providing a real-time visual cue of performance.
@@ -38,7 +38,7 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 
 ---
 
-### 🧃 Product Table with Dynamic Images
+<h3>🧃 Product Table with Dynamic Images</h3>
 
 - A dedicated **table of beverage products** is included within the report.
 - This table features **embedded product images** next to their names and KPIs.
@@ -47,11 +47,16 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 
 ---
 
-## 🌗 Light/Dark Mode Switching
+<h3>🌗 Light/Dark Mode Switching</h3>
 
 - Each page of the report includes a **light/dark mode switcher**.
 - Clicking this switcher redirects the user to an alternative version of the same page, styled in the selected color mode (light or dark).
 - This design accommodates users' visual preferences and improves readability across devices.
+
+  <p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+    <img width="49%" height="49%" alt="image" src="https://github.com/user-attachments/assets/7ab188a0-731f-495b-8a6e-6ed37ca1ca48" />
+    <img width="49%" height="49%" alt="image" src="https://github.com/user-attachments/assets/8884755c-456f-499f-aa49-89af86862b61" />
+  </p>
 
 ---
 
