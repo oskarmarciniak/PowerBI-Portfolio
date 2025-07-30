@@ -1,19 +1,4 @@
-<a href="https://twoja-strona.github.io/PowerBI-Portfolio" class="back-button">Back to PowerBI-Portfolio home page</a>
-
-<a href="https://twoja-strona.github.io/PowerBI-Portfolio" 
-   style="display:inline-block;
-          padding:10px 20px;
-          font-size:16px;
-          font-family:sans-serif;
-          background-color:#0366d6;
-          color:#ffffff;
-          border-radius:6px;
-          text-decoration:none;
-          transition:background-color 0.3s ease;"
-   onmouseover="this.style.backgroundColor='#005cc5'"
-   onmouseout="this.style.backgroundColor='#0366d6'">
-   Back to PowerBI-Portfolio home page
-</a>
+<a href="README.md">Back to PowerBI-Portfolio home page</a>
 
 <h3>🏠 Main Page:</h3>
   <p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
