@@ -3,11 +3,28 @@
 This report includes several advanced UI/UX solutions that enhance usability, user engagement, and overall experience.
 
 ---
+<h3>🌊 Liquid Visual for KPI Indicator</h3>
+
+- The **main KPI** is presented using a custom **liquid fill visual**, which enhances the visual appeal and aligns with the overall **theme and “climate” of the report**.
+- The liquid inside the circle dynamically **moves and animates** depending on the percentage value, providing a real-time visual cue of performance.
+- This technique blends data visualization with subtle animation to make key metrics stand out without overwhelming the viewer.
+
+---
+
+<h3>🧃 Product Table with Dynamic Images</h3>
+
+- A dedicated **table of beverage products** is included within the report.
+- This table features **embedded product images** next to their names and KPIs.
+- As users apply filters, **the image rows automatically re-sort** based on the selected data, preserving consistent layout while dynamically adapting to the context.
+- This allows for an engaging visual representation of product-level performance, enhanced with real-world imagery.
+
+---
 
 <h3>ℹ️ Information Tooltips</h3>
 
 - Every page features **interactive tooltips** that display contextual information when hovering over or clicking on specific visuals.
 - These tooltips help users interpret the data without cluttering the report.
+- This type of visual solution can be used to describe the most important KPIs on the page / report refresh date / contact persons / etc.
 
 <img width="857" height="496" alt="image" src="https://github.com/user-attachments/assets/d082375f-e2cf-4ff6-b738-ec044af8d113" />
 
@@ -32,26 +49,18 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 - Most **buttons** in the report (except the **info button** used for triggering tooltips) are designed with **hover-activated descriptions**.
 - When the user hovers over a button, a short tooltip appears describing the **exact action** that will happen upon clicking — for example:
   - "Switch to dark mode"
-  - "Open filter panel"
-  - "Go to product overview"
+  - "Open filter window"
+  - "Enter ... page"
 - This helps ensure clarity for all user interactions and provides intuitive, guided navigation through the report.
 
----
-
-<h3>🌊 Liquid Visual for KPI Indicator</h3>
-
-- The **main KPI** is presented using a custom **liquid fill visual**, which enhances the visual appeal and aligns with the overall **theme and “climate” of the report**.
-- The liquid inside the circle dynamically **moves and animates** depending on the percentage value, providing a real-time visual cue of performance.
-- This technique blends data visualization with subtle animation to make key metrics stand out without overwhelming the viewer.
-
----
-
-<h3>🧃 Product Table with Dynamic Images</h3>
-
-- A dedicated **table of beverage products** is included within the report.
-- This table features **embedded product images** next to their names and KPIs.
-- As users apply filters, **the image rows automatically re-sort** based on the selected data, preserving consistent layout while dynamically adapting to the context.
-- This allows for an engaging visual representation of product-level performance, enhanced with real-world imagery.
+<p>
+  <img width="225" height="32" alt="image" src="https://github.com/user-attachments/assets/a0ff2afd-8e6a-499f-9523-55eeb0e2a203" />
+  <img width="225" height="32" alt="image" src="https://github.com/user-attachments/assets/611b1138-3035-4160-bb6a-7ab11bce7ece" />
+</p>
+<p>
+  <img width="286" height="57" alt="image" src="https://github.com/user-attachments/assets/ff0f3c2d-8c73-4ce6-aa26-8befbafc7477" />
+  <img width="290" height="60" alt="image" src="https://github.com/user-attachments/assets/002e4127-fa5e-4ca6-b92c-3bc366ef5488" />
+</p>
 
 ---
 
