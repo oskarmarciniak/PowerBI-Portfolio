@@ -1,10 +1,11 @@
-# 📄 Report Structure Overview
+<h1>📄 Report Structure Overview</h1>
+
 This report has been designed with an intuitive and interactive layout to enhance the user experience while maintaining clarity and simplicity. Below is a summary of its main navigation and structural features:
-## 🧭 Navigation
+<h3>🧭 Navigation</h3>
 - The **end-user-facing view** consists of **a single main page**.
 - Navigation to other pages is achieved via **dedicated buttons** that lead to hidden or secondary content.
 - This approach allows for a clean and focused user interface while maintaining access to all necessary information.
-## 🛠️ Technical Highlights
+<h3>🛠️ Technical Highlights</h3>
 - The report includes:
   - **10 total pages**
   - **2 additional pages** used exclusively as **custom tooltips**
@@ -42,6 +43,8 @@ This report has been designed with an intuitive and interactive layout to enhanc
     <img width="49%" height="49%" alt="image" src="https://github.com/user-attachments/assets/e24452c0-fb54-4926-979b-2936659f85fd" />
     <img width="49%" height="49%" alt="image" src="https://github.com/user-attachments/assets/4bac325c-0f45-431d-977e-b9933c406982" />
   </p>
+
+---
 
 ### [⬅️ Back to PowerBI-Portfolio home page](https://github.com/oskarmarciniak/PowerBI-Portfolio)
 
