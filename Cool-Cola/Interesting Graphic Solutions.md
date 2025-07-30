@@ -4,18 +4,26 @@ This report includes several advanced UI/UX solutions that enhance usability, us
 
 ---
 
+<h3>ℹ️ Information Tooltips</h3>
+
+- Every page features **interactive tooltips** that display contextual information when hovering over or clicking on specific visuals.
+- These tooltips help users interpret the data without cluttering the report.
+
+<img width="857" height="496" alt="image" src="https://github.com/user-attachments/assets/d082375f-e2cf-4ff6-b738-ec044af8d113" />
+
+---
+
 <h3>🔍 Filter Panel</h3>
 
 - A **hidden filter pane** is available on each page.
 - It can be revealed via a dedicated button and allows users to interactively filter the data based on various dimensions.
 - The filter panel is designed to stay out of sight until needed, preserving visual clarity.
+- The filter panel contains a window showing the currently used filters and a button to reset all used filters.
+- Applied filters work on all pages of the report.
+- To close the filter panel, click the “X” icon or anywhere on the report (outside the filter area).
 
----
-
-<h3>ℹ️ Information Tooltips</h3>
-
-- Every page features **interactive tooltips** that display contextual information when hovering over or clicking on specific visuals.
-- These tooltips help users interpret the data without cluttering the report.
+<img width="1371" height="121" alt="image" src="https://github.com/user-attachments/assets/d2824c76-cb8b-4a40-951a-23771b42436c" />
+<img width="292" height="536" alt="image" src="https://github.com/user-attachments/assets/763f22cf-1a9c-469e-a6f6-8a735d2338af" />
 
 ---
 
