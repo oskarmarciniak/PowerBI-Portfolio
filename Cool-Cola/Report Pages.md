@@ -30,7 +30,7 @@
     <img width="49%" height="49%" alt="image" src="https://github.com/user-attachments/assets/4bac325c-0f45-431d-977e-b9933c406982" />
   </p>
 
-### [⬅️ Back to PowerBI-Portfolio home page](https://twoja-strona.github.io/PowerBI-Portfolio)
+### [⬅️ Back to PowerBI-Portfolio home page]([https://twoja-strona.github.io/PowerBI-Portfolio](https://github.com/oskarmarciniak/PowerBI-Portfolio/blob/708783adb564ca7fb899b430bf3adf011d4d74ad/README.md)
 
 
 
