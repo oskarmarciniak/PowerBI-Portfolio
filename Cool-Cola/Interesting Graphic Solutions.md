@@ -1,8 +1,6 @@
-## 🌗 Light/Dark Mode Switching
+## ✨ Interesting Graphic Solutions
 
-- Each page of the report includes a **light/dark mode switcher**.
-- Clicking this switcher redirects the user to an alternative version of the same page, styled in the selected color mode (light or dark).
-- This design accommodates users' visual preferences and improves readability across devices.
+This report includes several advanced UI/UX solutions that enhance usability, user engagement, and overall experience.
 
 ---
 
@@ -46,6 +44,14 @@
 - This table features **embedded product images** next to their names and KPIs.
 - As users apply filters, **the image rows automatically re-sort** based on the selected data, preserving consistent layout while dynamically adapting to the context.
 - This allows for an engaging visual representation of product-level performance, enhanced with real-world imagery.
+
+---
+
+## 🌗 Light/Dark Mode Switching
+
+- Each page of the report includes a **light/dark mode switcher**.
+- Clicking this switcher redirects the user to an alternative version of the same page, styled in the selected color mode (light or dark).
+- This design accommodates users' visual preferences and improves readability across devices.
 
 ---
 
